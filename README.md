@@ -1,0 +1,2 @@
+# tiendadepartamental
+trainningQA
